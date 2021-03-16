@@ -27,8 +27,6 @@ EXAMPLE TEXT
 </p>
 </th>
 </tr>
-<tr>
-<td>
 </table>
 
 
