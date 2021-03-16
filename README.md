@@ -9,6 +9,10 @@
 </p>
 | img1 description | img1 description | img1 description | img1 description
 
+| Some | text | and number
+| ---- | -------- | ----
+| some | long text | 1
+| awesome | another text | 1
 
 
 <figure class="image">
