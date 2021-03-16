@@ -16,10 +16,10 @@
  <img src="etc/input5.png" title="특정 User 예제" width="25%" height="auto" ></img>
 </p>
 <p align="middle">
-    <em>**Fig. 1:** Image caption</em>
-    <em>**Fig. 1:** Image caption</em>
-    <em>**Fig. 1:** Image caption</em>
-    <em>**Fig. 1:** Image caption</em>
+    <em>**Fig.1:** Input data</em>
+    <em>**Fig.2:** MOrdRed_median</em>
+    <em>**Fig.3:** Pre-trained MOrdReD_median</em>
+    <em>**Fig.4:** Result table</em>
 </p>
 
 
