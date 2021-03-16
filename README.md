@@ -27,7 +27,7 @@
 
 
 
-| <img src="etc/input2.png" alt="text" title="특정 User 예제" width="400" height="auto" ></img> | <img src="etc/co2_base.png" alt="text" title="특정 User 예제" width="auto" height="auto" ></img>  | <img src="etc/co2_pre.png" alt="text" title="특정 User 예제" width="auto" height="auto" ></img>  | <img src="etc/result1.png" alt="text" title="특정 User 예제" width="auto" height="auto" ></img>  | 
+| <img src="etc/input2.png" alt="text" title="특정 User 예제" width="500" height="auto" ></img> | <img src="etc/co2_base.png" alt="text" title="특정 User 예제" width="auto" height="auto" ></img>  | <img src="etc/co2_pre.png" alt="text" title="특정 User 예제" width="auto" height="auto" ></img>  | <img src="etc/result1.png" alt="text" title="특정 User 예제" width="200" height="auto" ></img>  | 
 |:--:| :--:| :--:| :--:| 
 | **Fig.1:** Input data | **Fig.2:** MOrdRed_median | **Fig.3:** Pre-trained MOrdReD_median | **Fig.4:** Result table |
 
