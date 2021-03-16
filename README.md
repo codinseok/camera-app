@@ -10,19 +10,8 @@
 
 
 
-<template>
-  <figure>
-    <img :src="etc/input2.png" alt=""/>
-    <figcaption>Legenda: {{ caption }} - {{ src }}</figcaption>
-  </figure>
-</template>
-<script>
-export default {
-  props: ['src', 'caption'],
-  computed: {
-    imagesrc () {
-      return './images/' + this.src
-    }
-  }
-}
-</script>
+
+<figure class="image">
+  <img src="etc/input2.png" alt="{{ include.description }}">
+  <figcaption>{{ include.description }}</figcaption>
+</figure>
