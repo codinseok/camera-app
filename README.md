@@ -13,6 +13,22 @@
 </p>
 
 
+
+<p align="middle">
+ <img src="etc/input2.png" alt="text" title="특정 User 예제" width="25%" height="auto" ></img>
+ <em>**Fig.1:** Input data</em>
+ <img src="etc/input3.png" alt="text" title="특정 User 예제" width="25%" height="auto" ></img>
+ <em>**Fig.1:** Input data</em>
+ <img src="etc/input4.png" alt="text" title="특정 User 예제" width="25%" height="auto" ></img>
+ <em>**Fig.1:** Input data</em>
+ <img src="etc/input5.png" alt="text" title="특정 User 예제" width="25%" height="auto" ></img>
+ <em>**Fig.1:** Input data</em>
+</p>
+
+| ![Image Alt 텍스트]({{"etc/input2.png"| relative_url}}) | ![Image Alt 텍스트]({{"etc/input2.png"| relative_url}}) | ![Image Alt 텍스트]({{"etc/input2.png"| relative_url}}) | ![Image Alt 텍스트]({{"etc/input2.png"| relative_url}}) | 
+|:--:|:--:|:--:|:--:| 
+| 여기에 캡션을 작성합니다. | 여기에 캡션을 작성합니다. | 여기에 캡션을 작성합니다. | 여기에 캡션을 작성합니다. |
+
 <p>
  <img src="etc/input2.png" title="특정 User 예제" width="25%" height="auto" ></img>
  <img src="etc/input3.png" title="특정 User 예제" width="25%" height="auto" ></img>
