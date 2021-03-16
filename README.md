@@ -11,7 +11,7 @@
 <table>
 <tr>
 <th align="center">
-<img width="25%" height="1">
+<img width="25%" height="auto">
 <p> 
 <small>
 EXAMPLE TEXT
@@ -19,7 +19,7 @@ EXAMPLE TEXT
 </p>
 </th>
 <th align="center">
-<img width="25%" height="1">
+<img width="25%" height="auto">
 <p> 
 <small>
 EXAMPLE TEXT
@@ -27,7 +27,7 @@ EXAMPLE TEXT
 </p>
 </th>
 <th align="center">
-<img width="25%" height="1">
+<img width="25%" height="auto">
 <p> 
 <small>
 EXAMPLE TEXT
@@ -35,7 +35,7 @@ EXAMPLE TEXT
 </p>
 </th>
 <th align="center">
-<img width="25%" height="1">
+<img width="25%" height="auto">
 <p> 
 <small>
 EXAMPLE TEXT
