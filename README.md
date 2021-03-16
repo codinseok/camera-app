@@ -29,9 +29,10 @@
 
 
 
-| ![Image Alt 텍스트]({{"etc/input2.png"| relative_url}}) | ![Image Alt 텍스트]({{"etc/input2.png"| relative_url}}) | ![Image Alt 텍스트]({{"etc/input2.png"| relative_url}}) | ![Image Alt 텍스트]({{"etc/input2.png"| relative_url}}) | 
-|:--:|:--:|:--:|:--:| 
-| 여기에 캡션을 작성합니다. | 여기에 캡션을 작성합니다. | 여기에 캡션을 작성합니다. | 여기에 캡션을 작성합니다. |
+| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
+|:--:| 
+| *Space* |
+
 
 <p>
  <img src="etc/input2.png" title="특정 User 예제" width="25%" height="auto" ></img>
