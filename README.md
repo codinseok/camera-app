@@ -25,6 +25,10 @@
  <em>**Fig.1:** Input data</em>
 </p>
 
+<figure class="image"><img src="etc/input2.png" alt="{{ include.description }}"><figcaption>{{ include.description }}</figcaption></figure>
+
+
+
 | ![Image Alt 텍스트]({{"etc/input2.png"| relative_url}}) | ![Image Alt 텍스트]({{"etc/input2.png"| relative_url}}) | ![Image Alt 텍스트]({{"etc/input2.png"| relative_url}}) | ![Image Alt 텍스트]({{"etc/input2.png"| relative_url}}) | 
 |:--:|:--:|:--:|:--:| 
 | 여기에 캡션을 작성합니다. | 여기에 캡션을 작성합니다. | 여기에 캡션을 작성합니다. | 여기에 캡션을 작성합니다. |
