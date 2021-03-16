@@ -2,14 +2,10 @@
 
 
 <p align="middle">
- <img src="etc/input2.png" alt="text" title="특정 User 예제" width="25%" height="auto" ></img>
- test caption1
- <img src="etc/input3.png" alt="text" title="특정 User 예제" width="25%" height="auto" ></img>
- test caption1
- <img src="etc/input4.png" alt="text" title="특정 User 예제" width="25%" height="auto" ></img>
- test caption1
- <img src="etc/input5.png" alt="text" title="특정 User 예제" width="25%" height="auto" ></img>
- test caption1
+ <img src="etc/input2.png" alt="text" title="특정 User 예제" width="25%" height="auto" ></img>test caption1
+ <img src="etc/input3.png" alt="text" title="특정 User 예제" width="25%" height="auto" ></img>test caption1
+ <img src="etc/input4.png" alt="text" title="특정 User 예제" width="25%" height="auto" ></img>test caption1
+ <img src="etc/input5.png" alt="text" title="특정 User 예제" width="25%" height="auto" ></img>test caption1
 </p>
 
 
