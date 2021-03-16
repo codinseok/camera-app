@@ -46,6 +46,22 @@ EXAMPLE TEXT
 </table>
 
 
+.center[
+
+![My image](https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+
+.caption[
+**Fig. 1:** Image caption
+]
+
+]
+
+.caption {
+  text-align: center;
+  font-size: .8rem;
+}
+
+
 <figure class="image">
   <img src="etc/input2.png" alt="{{ include.description }}">
   <figcaption>{{ include.description }}</figcaption>
