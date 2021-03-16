@@ -27,7 +27,7 @@
 
 
 
-| ![space-1.jpg](etc/input2.png) | ![space-1.jpg](etc/input3.png) | ![space-1.jpg](etc/input4.png) | ![space-1.jpg](etc/input5.png) | 
+| <img src="etc/input2.png" alt="text" title="특정 User 예제" width="25%" height="auto" ></img> | ![space-1.jpg](etc/input3.png) | ![space-1.jpg](etc/input4.png) | ![space-1.jpg](etc/input5.png) | 
 |:--:| :--:| :--:| :--:| 
 | **Fig.1:** Input data | **Fig.2:** MOrdRed_median | **Fig.3:** Pre-trained MOrdReD_median | **Fig.4:** Result table |
 
