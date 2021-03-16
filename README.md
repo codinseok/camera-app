@@ -45,21 +45,10 @@ EXAMPLE TEXT
 </tr>
 </table>
 
-
-.center[
-
-![My image](https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
-
-.caption[
-**Fig. 1:** Image caption
-]
-
-]
-
-.caption {
-  text-align: center;
-  font-size: .8rem;
-}
+<p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg" alt>
+    <em>**Fig. 1:** Image caption</em>
+</p>
 
 
 <figure class="image">
