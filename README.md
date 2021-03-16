@@ -25,11 +25,9 @@
  <em>**Fig.1:** Input data</em>
 </p>
 
-<figure class="image"><img src="etc/input2.png" alt="{{ include.description }}"><figcaption>{{ include.description }}</figcaption></figure>
 
 
-
-| ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | ![space-1.jpg](http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg) | 
+| ![space-1.jpg]("etc/input2.png") | ![space-1.jpg]("etc/input3.png") | ![space-1.jpg]("etc/input4.png") | ![space-1.jpg]("etc/input5.png") | 
 |:--:| :--:| :--:| :--:| 
 | *Space* | *Space* | *Space* | *Space* |
 
