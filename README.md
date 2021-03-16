@@ -17,6 +17,9 @@
 </p>
 <p>
     <em>**Fig. 1:** Image caption</em>
+    <em>**Fig. 1:** Image caption</em>
+    <em>**Fig. 1:** Image caption</em>
+    <em>**Fig. 1:** Image caption</em>
 </p>
 
 
