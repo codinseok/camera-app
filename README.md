@@ -9,7 +9,7 @@
 </p>
 
 | Some | text | and number | and number
-| ---- | -------- | ---- | ----
+| -------- | -------- | -------- | --------
 
 <figure class="image">
   <img src="etc/input2.png" alt="{{ include.description }}">
