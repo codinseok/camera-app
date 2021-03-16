@@ -8,6 +8,18 @@
  <img src="etc/input5.png" title="특정 User 예제" width="25%" height="auto" ></img>
 </p>
 
+
+<p>
+    <img src="etc/input2.png" title="특정 User 예제" width="25%" height="auto" ></img>
+</p>
+<p>
+    <em>**Fig. 1:** Image caption</em>
+</p>
+
+
+
+
+
 <table>
 <tr>
 <th align="center">
