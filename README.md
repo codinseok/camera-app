@@ -27,43 +27,9 @@ EXAMPLE TEXT
 </p>
 </th>
 </tr>
-<tr>
-<td>
-<!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
-  
-</td>
-<td>
-<!-- REMOVE THE BACKSLASHES -->
-\```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-\```
-  
-</td>
-</tr>
-<tr>
-<td align="center">
-Column 1
-</td>
-<td align="center">
-Column 2
-</td>
-</tr>
 </table>
+
+
 <figure class="image">
   <img src="etc/input2.png" alt="{{ include.description }}">
   <figcaption>{{ include.description }}</figcaption>
