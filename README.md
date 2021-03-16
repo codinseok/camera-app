@@ -29,7 +29,7 @@
 
 | ![space-1.jpg](etc/input2.png) | ![space-1.jpg](etc/input3.png) | ![space-1.jpg](etc/input4.png) | ![space-1.jpg](etc/input5.png) | 
 |:--:| :--:| :--:| :--:| 
-| *Space* | *Space* | *Space* | *Space* |
+| **Fig.1:** Input data | **Fig.2:** MOrdRed_median | **Fig.3:** Pre-trained MOrdReD_median | **Fig.4:** Result table |
 
 
 <p>
