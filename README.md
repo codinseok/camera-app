@@ -8,8 +8,8 @@
  <img src="etc/input5.png" title="특정 User 예제" width="25%" height="auto" ></img>
 </p>
 
-| Some | text | and number
-| ---- | -------- | ----
+| Some | text | and number | and number
+| ---- | -------- | ---- | ----
 
 <figure class="image">
   <img src="etc/input2.png" alt="{{ include.description }}">
