@@ -7,7 +7,7 @@
  <img src="etc/input4.png" title="특정 User 예제" width="25%" height="auto" ></img>
  <img src="etc/input5.png" title="특정 User 예제" width="25%" height="auto" ></img>
 </p>
-| img1 description | img1 description | img1 description | img1 description |
+| img1 description | img1 description | img1 description | img1 description
 
 
 
