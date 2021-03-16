@@ -47,6 +47,8 @@ EXAMPLE TEXT
 
 <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg" alt>
+</p>
+<p>
     <em>**Fig. 1:** Image caption</em>
 </p>
 
